@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "BiteCount",
-    "slug": "BiteCount",
+    "slug": "bitecount",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -39,6 +39,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "13f35623-d298-4ca1-bb5d-c10d83e4ddc7"
+      }
+    },
+    "owner": "harshakothas-team"
   }
 }
